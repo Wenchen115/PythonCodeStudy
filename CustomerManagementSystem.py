@@ -7,7 +7,6 @@ def fun():
     print(" 4.list")
     print(" 5.exit")
 
-
 # 定义一个列表，用来存储用户的信息
 test_user = []
 
