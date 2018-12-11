@@ -82,8 +82,3 @@ while True:
 
     else:
         print("请确认输入是否正确")
-
-
-
-
-
